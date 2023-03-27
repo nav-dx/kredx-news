@@ -1,43 +1,6 @@
-let data = {
-  kredx: {
-    title: "KredX",
-    news: [
-      {
-        id: 1,
-        imgUrl: "The Print",
-        desc: "KredX unveils new brand identity; positions itself as one-stop solution provider of supply chain financing",
-        redirect_url: "https://www.kredx.com/",
-      },
-      {
-        id: 2,
-        imgUrl: "ANI",
-        desc: "KredX unveils new brand identity; positions itself as one-stop solution provider of supply chain financing",
-        redirect_url: "https://www.kredx.com/",
-      },
-      {
-        id: 3,
-        imgUrl: "Upstream Life",
-        desc: "Video: Alternate lending powered by technology can make SMBs prosper in India: the story of KredX",
-        redirect_url: "https://www.kredx.com/",
-      },
-      {
-        id: 4,
-        imgUrl: "Financial Express",
-        desc: "KredX unveils new brand identity",
-        redirect_url: "https://www.kredx.com/",
-      },
-      {
-        id: 5,
-        imgUrl: "Financial Express",
-        desc: "Video: TReDS brought the power of financing to MSMEs instead of banks earlier, says KredX’s Manish Kumar",
-        redirect_url: "https://www.kredx.com/",
-      },
-      {
-        id: 6,
-        imgUrl: "ANI",
-        desc: "Video: TReDS brought the power of financing to MSMEs instead of banks earlier, says KredX’s Manish Kumar",
-        redirect_url: "https://www.kredx.com/",
-      },
-    ],
-  },
-};
+// let str =
+//   "apple banana cherry date elderberry fig grape honeydew indian gooseberry jackfruit kiwi lemon mango nectarine orange pear quince raspberry strawberry tangerine ugli fruit vanilla bean watermelon xigua yellow watermelon zucchini almond cashew walnut peanut pistachio hazelnut macadamia nut brazil nut chestnut coconut pecan pine nut";
+// let words = str.split(" ");
+// let first10Words = words.slice(0, 10);
+// let displayText = first10Words.join(" ") + " ...";
+// console.log(displayText);
